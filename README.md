@@ -5,7 +5,7 @@ I'm a __frontend developer__ based in __France__. I love learning web developmen
 🔭 I’m currently working on my <a href="https://clementgax.github.io/">portfolio</a>  
 🌱 I’m currently learning TypeScript and Node.js  
 👯 I’m looking for my first job as developer  
-</br>
+
 📫 How to reach me: 
 <a href="mailto:clement.gax@gmail.com"><img src="https://img.shields.io/badge/Mail-white?&logo=gmail&logoColor=red"/></a> 
 <a href="https://linkedin.com/in/clementgaxotte/"><img src="https://img.shields.io/badge/Linkedin-blue?&logo=linkedin&logoColor=white"/></a> 
