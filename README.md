@@ -9,7 +9,7 @@ I'm a __frontend developer__ based in __France__. I love learning web developmen
 📫 How to reach me: 
 <a href="mailto:clement.gax@gmail.com"><img src="https://img.shields.io/badge/Mail-%23DD0031.svg?&logo=gmail&logoColor=white"/></a>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/clementgaxotte/)
-(https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)
 
 <h2>My skills</h2> 
 
