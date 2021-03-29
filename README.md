@@ -11,6 +11,7 @@ I'm a __frontend developer__ based in __France__. I love learning web developmen
 <a href="https://linkedin.com/in/clementgaxotte/"><img src="https://img.shields.io/badge/Linkedin-blue?&logo=linkedin&logoColor=white"/></a> 
 
 <h2>My skills</h2> 
+
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![AntDesign](https://img.shields.io/badge/-Ant_Design-0170FE?style=flat-square&logo=ant-design)
