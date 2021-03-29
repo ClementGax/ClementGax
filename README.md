@@ -16,4 +16,5 @@ I'm a __frontend developer__ based in __France__. I love learning web developmen
 
 ![HTML](https://img.shields.io/badge/HTML-black?&logo=html&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-black?&logo=css&logoColor=white)
-![CSS](https://img.shields.io/badge/JavaScript-black?&logo=JavaScript&logoColor=yellow)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?&logo=JavaScript&logoColor=yellow)
+![React](https://img.shields.io/badge/React-black?&logo=React&logoColor=blue)
