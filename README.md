@@ -16,7 +16,7 @@ I'm a __frontend developer__ based in __France__. I love learning web developmen
 ![CSS](https://img.shields.io/badge/CSS-black?&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?&logo=javascript)
 ![REACT](https://img.shields.io/badge/React-black?&logo=react)
-![REDUX](https://img.shields.io/badge/Redux-black?&logo=redux)
+![REDUX](https://img.shields.io/badge/Redux-black?&logo=redux&logoColor=purple)
 ![TYPESCRIPT](https://img.shields.io/badge/TypeScript-black?&logo=typescript)
 ![NODEJS](https://img.shields.io/badge/Node.js-black?&logo=node.js)
 ![GIT](https://img.shields.io/badge/Git-black?&logo=git)
