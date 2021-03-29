@@ -3,15 +3,17 @@
 I'm a __frontend developer__ based in __France__. I love learning web development and all kinds of other things and i'm ready for discussions and making new projects.
 
 🔭 I’m currently working on my <a href="https://clementgax.github.io/">portfolio</a>  
-🌱 I’m currently learning TypeScript and NodeJS  
-👯 I’m looking to collaborate on ...  
-🤔 I’m looking for help with ...   
+🌱 I’m currently learning TypeScript and Node.js  
+👯 I’m looking for my first job as developer
+  
 </br>
 📫 How to reach me: 
-<a href="mailto:clement.gax@gmail.com"><img src="https://img.shields.io/badge/Mail-%23DD0031.svg?&logo=gmail&logoColor=white"/></a> 
+<a href="mailto:clement.gax@gmail.com"><img src="https://img.shields.io/badge/Mail-white?&logo=gmail&logoColor=red"/></a> 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/clementgaxotte/)
 
 <h2>My skills</h2> 
+
+
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
