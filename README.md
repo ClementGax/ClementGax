@@ -1,13 +1,20 @@
-<h2 align="center">Hi, I'm Clément 👋</h2>
+<h2 align="center">Hi there 👋, I'm Clément!</h2>
 
 <p align="center">
-  <a href="https://clementgax.github.io/">Portfolio</a> •
+   •
   <a href="https://linkedin.com/in/clementgaxotte">Linkedin</a>
 </p>
 
-I'm a __frontend developer__ based in __France__. I love learning web development and all kinds of other things online and i'm ready for discussions and making new projects.
+I'm a __frontend developer__ based in __France__. I love learning web development and all kinds of other things and i'm ready for discussions and making new projects.
 
-
+🔭 I’m currently working on my <a href="https://clementgax.github.io/">portfolio</a>
+🌱 I’m currently learning TypeScript
+👯 I’m looking to collaborate on ...
+🤔 I’m looking for help with ...
+💬 Ask me about ...
+📫 How to reach me:
+<a href="mailto:clement.gax@gmail.com"><img src="https://img.shields.io/badge/Mail-%23DD0031.svg?&logo=gmail&logoColor=white"/></a>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/clementgaxotte/)
 
 <h2>My skills</h2> 
 
