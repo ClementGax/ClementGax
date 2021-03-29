@@ -14,7 +14,7 @@ I'm a __frontend developer__ based in __France__. I love learning web developmen
 
 
 
-![HTML](https://img.shields.io/badge/Linkedin-blue?&logo=linkedin&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-orange?&logo=HTML&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![AntDesign](https://img.shields.io/badge/-Ant_Design-0170FE?style=flat-square&logo=ant-design)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
